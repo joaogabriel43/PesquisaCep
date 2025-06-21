@@ -1,0 +1,11 @@
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Dependências e arquivos de build
+*.jar
+out/
+
+# Arquivos gerados pelo usuário
+enderecos.json
+
