@@ -1,10 +1,5 @@
 # BuscaCEP-CLI ☕
 
-![Java CI with Maven](https://img.shields.io/github/actions/workflow/status/joaogabriel43/PesquisaCep/maven.yml?branch=main&logo=github&style=for-the-badge)
-![License](https://img.shields.io/github/license/joaogabriel43/PesquisaCep?style=for-the-badge)
-![Java Version](https://img.shields.io/badge/java-17%2B-orange?style=for-the-badge&logo=java)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge)
-
 > Uma ferramenta de linha de comando (CLI) simples e eficiente, escrita em Java, para consultar endereços a partir de um CEP e salvar os resultados em um arquivo JSON.
 
 
